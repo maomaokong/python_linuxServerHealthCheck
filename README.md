@@ -1,5 +1,5 @@
-# python_simpleHealthCheck
-Python script for simple Server Health Check
+# python_linuxServerHealthCheck
+Python script to perform simple Health Check for Linux Server
 
 Using cron job to trigger the script on the server
 # crontab -e
